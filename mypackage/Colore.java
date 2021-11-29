@@ -1,7 +1,7 @@
 package mypackage;
 
 
-import render.Material;
+import perlinK.Material;
 
 public class Colore 
 {

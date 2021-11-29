@@ -14,9 +14,9 @@ import javax.swing.JPanel;
 import javax.swing.border.LineBorder;
 import javax.swing.border.TitledBorder;
 
-import render.Material;
-import render.Matrix;
-import render.RenderJPanel;
+import perlinK.Material;
+import perlinK.Matrix;
+import perlinK.RenderJPanel;
 
 public class Specchio extends JPanel //JInternalFrame
 {

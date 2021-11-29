@@ -12,10 +12,9 @@ import java.util.TimerTask;
 
 import javax.swing.JOptionPane;
 
-
-import render.Matrix;
-import render.Geometry;
-import render.Material;
+import perlinK.Geometry;
+import perlinK.Material;
+import perlinK.Matrix;
 
 public class Cubo27 extends Geometry implements Controllabile
 {

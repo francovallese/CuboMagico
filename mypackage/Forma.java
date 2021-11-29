@@ -27,12 +27,11 @@ import javax.swing.border.TitledBorder;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-import org.kociemba.twophase.Search;
-
-import render.Geometry;
-import render.Material;
-import render.Matrix;
-import render.RenderJPanel;
+import kociemba.Search;
+import perlinK.Geometry;
+import perlinK.Material;
+import perlinK.Matrix;
+import perlinK.RenderJPanel;
 
 
 public class Forma extends RenderJPanel implements ChangeListener,RicevitoreComandi

@@ -13,7 +13,8 @@ import java.awt.event.WindowEvent;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
-import org.kociemba.twophase.Search;
+
+import kociemba.Search;
 
 
 
@@ -184,8 +185,8 @@ public class MainApp extends JFrame
 		*/
 		//System.out.println("a "+ (int)'a' + " A "+(int)'A');
 		//System.out.println('a' < 'A');
-		//new MainApp();
-		System.out.println("pippo");
+		new MainApp();
+		
 	}
 
 	

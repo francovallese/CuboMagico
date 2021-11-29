@@ -1,7 +1,7 @@
 package mypackage;
 
-import render.Geometry;
-import render.Material;
+import perlinK.Geometry;
+import perlinK.Material;
 
 public class Cubino extends Geometry
 {
